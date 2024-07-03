@@ -2,6 +2,7 @@
 
 Esta es una plantilla para crear aplicaciones utilizando Next.js 14 (App Directory) y NextUI.
 
+LINK DEMO: https://next-app-template-vert.vercel.app/
 ## Tecnologías Utilizadas
 
 - [Next.js 14](https://nextjs.org/docs/getting-started)
