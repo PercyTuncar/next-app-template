@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* globals.css */
+ 
+  /* Estilos personalizados para el scrollbar */
+  ::-webkit-scrollbar {
+    width: 5px; /* Ancho del scrollbar */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Color del fondo del track */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #888; /* Color del pulgar (thumb) del scrollbar */
+    border-radius: 4px; /* Bordes redondeados del thumb */
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Color del thumb cuando se pasa el ratón por encima */
+  }
+  
+  /* Estilos para Firefox */
+  html {
+    scrollbar-width: thin; /* Grosor del scrollbar */
+    scrollbar-color: #363636 #a7a7a7; /* Color del thumb y del track */
+  }
+  
