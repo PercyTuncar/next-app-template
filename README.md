@@ -1,9 +1,6 @@
-```markdown
-# Plantilla Next.js & NextUI
+# Plantilla de Next.js & NextUI -  App Directory
 
 Esta es una plantilla para crear aplicaciones utilizando Next.js 14 (App Directory) y NextUI.
-
-[Try it on CodeSandbox](https://githubbox.com/nextui-org/next-app-template)
 
 ## Tecnologías Utilizadas
 
@@ -22,7 +19,7 @@ Esta es una plantilla para crear aplicaciones utilizando Next.js 14 (App Directo
 Para crear un nuevo proyecto basado en esta plantilla utilizando `create-next-app`, ejecuta el siguiente comando:
 
 ```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
+npx create-next-app -e https://github.com/PercyTuncar/next-app-template
 ```
 
 ### Instalar dependencias
