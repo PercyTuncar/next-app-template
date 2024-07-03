@@ -1,5 +1,3 @@
-Aquí está la información traducida y en formato Markdown:
-
 ```markdown
 # Plantilla Next.js & NextUI
 
@@ -55,5 +53,3 @@ Después de modificar el archivo `.npmrc`, debes ejecutar `pnpm install` nuevame
 
 Licenciado bajo la [licencia MIT](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
 ```
-
-Este es el contenido traducido y formateado en Markdown para la plantilla de Next.js & NextUI.
