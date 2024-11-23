@@ -6,22 +6,22 @@ LINK DEMO: https://next-app-template-vert.vercel.app/
 
 ## ¿Cómo Usar?
 
-### Usar la plantilla con create-next-app
+### 1. Usar la plantilla con create-next-app
 
 Para crear un nuevo proyecto basado en esta plantilla utilizando `create-next-app`, ejecuta el siguiente comando:
 
 ```bash
 npx create-next-app@latest -e https://github.com/PercyTuncar/next-app-template
 ```
-### Agregar el nombre al proyecto
+### 2. Agregar el nombre al proyecto
 
 Cuando se solicite, asigna un nombre a tu proyecto. Por ejemplo, ```my-project```
 
-### Esperar la instalación
+### 3. Esperar la instalación
 
 El comando anterior instalará las dependencias y configurará tu proyecto automáticamente.
 
-### Navegar al proyecto
+### 4. Navegar al proyecto
 
 Una vez finalizada la instalación, navega al directorio del proyecto:
 
@@ -29,7 +29,7 @@ Una vez finalizada la instalación, navega al directorio del proyecto:
 cd my-project
 ```
 
-### Instalar dependencias (si no se instalaron automáticamente)
+### 5. Instalar dependencias (si no se instalaron automáticamente)
 
 Si las dependencias no se instalaron automáticamente, puedes hacerlo manualmente usando uno de estos comandos. Ejemplo con `npm`:
 
@@ -37,7 +37,7 @@ Si las dependencias no se instalaron automáticamente, puedes hacerlo manualment
 npm install
 ```
 
-### Ejecutar el servidor de desarrollo
+### 6. Ejecutar el servidor de desarrollo
 
 Inicia el servidor de desarrollo con el siguiente comando:
 
