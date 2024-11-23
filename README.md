@@ -4,15 +4,18 @@ Esta es una plantilla para crear aplicaciones utilizando Next.js (App Directory)
 
 LINK DEMO: https://next-app-template-vert.vercel.app/
 
-## Cómo Usar
+## ¿Cómo Usar?
 
 ### Usar la plantilla con create-next-app
 
-Para crear un nuevo proyecto basado en esta plantilla utilizando `create-next-app`, ejecuta el siguiente comando y asigna el nombre de tu proyecto:
+Para crear un nuevo proyecto basado en esta plantilla utilizando `create-next-app`, ejecuta el siguiente comando:
 
 ```bash
-npx create-next-app@latest nombre-del-proyecto -e https://github.com/PercyTuncar/next-app-template
+npx create-next-app@latest -e https://github.com/PercyTuncar/next-app-template
 ```
+### Agregar el nombre al proyecto
+
+Cuando se solicite, asigna un nombre a tu proyecto. Por ejemplo, ```my-project```
 
 ### Esperar la instalación
 
@@ -23,7 +26,7 @@ El comando anterior instalará las dependencias y configurará tu proyecto autom
 Una vez finalizada la instalación, navega al directorio del proyecto:
 
 ```bash
-cd nombre-del-proyecto
+cd my-project
 ```
 
 ### Instalar dependencias (si no se instalaron automáticamente)
