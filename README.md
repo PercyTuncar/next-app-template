@@ -1,7 +1,6 @@
-```markdown
 # Plantilla de Next.js & NextUI - App Directory
 
-Esta es una plantilla para crear aplicaciones utilizando Next.js 14 (App Directory) y NextUI.
+Esta es una plantilla para crear aplicaciones utilizando Next.js (App Directory) y NextUI.
 
 LINK DEMO: https://next-app-template-vert.vercel.app/
 
