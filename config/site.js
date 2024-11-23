@@ -7,10 +7,6 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Documentación",
-      href: "/docs",
-    },
-    {
       label: "Precios",
       href: "/pricing",
     },
@@ -25,20 +21,28 @@ export const siteConfig = {
   ],
   navMenuItems: [
     {
+      label: "Inicio",
+      href: "/",
+    },
+    {
+      label: "Precios",
+      href: "/pricing",
+    },
+    {
+      label: "Blog",
+      href: "/blog",
+    },
+    {
+      label: "Acerca de",
+      href: "/about",
+    },
+    {
       label: "Perfil",
       href: "/profile",
     },
     {
-      label: "Tablero",
-      href: "/dashboard",
-    },
-    {
       label: "Proyectos",
       href: "/projects",
-    },
-    {
-      label: "Equipo",
-      href: "/team",
     },
     {
       label: "Calendario",
@@ -47,10 +51,6 @@ export const siteConfig = {
     {
       label: "Configuración",
       href: "/settings",
-    },
-    {
-      label: "Ayuda y Retroalimentación",
-      href: "/help-feedback",
     },
     {
       label: "Cerrar sesión",
